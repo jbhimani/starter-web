@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Junaid Bhimani    jbhimani7@ggmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
