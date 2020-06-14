@@ -12,5 +12,7 @@ Sample website with plenty of files for demos
 ## Deployment
 This is a simple web project, deployment can be any web server or even local file system 
 
+## How to Continue
+Please fork this repository and then issue pull request for review/
 ### Copyright
 2014 Git.Training.
