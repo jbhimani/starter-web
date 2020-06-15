@@ -2,6 +2,7 @@
 This is a sample website project for showing how to use Git and Github together
 This repository is for showing how Git and GitHub work
 
+Adding a line for rebasing example
 ## Instroduction
 This is example is to show diffrenet parts of the Git repository and vairous  commands
 ## Purpose
